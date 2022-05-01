@@ -1,0 +1,4 @@
+git status
+git add ...modified file name
+git commit -a 
+git push 
